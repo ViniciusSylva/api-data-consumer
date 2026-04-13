@@ -1,43 +1,54 @@
 # 🌐 API Projects
 
-Este repositório contém projetos de estudo focados em **consumo de APIs** utilizando JavaScript e tecnologias web.
+This repository contains study projects focused on **API consumption** using JavaScript and web technologies.
 
-O objetivo é praticar:
+The goal is to practice:
 
-- requisições HTTP
-- consumo de APIs públicas
-- manipulação de dados JSON
-- exibição dinâmica de dados na interface
-
-## 📁 Projetos
-
-### 🌤️ Weather API
-Aplicação que busca informações climáticas a partir do nome de uma cidade.
-
-Funcionalidades:
-- buscar clima por cidade
-- exibir temperatura
-- mostrar condições climáticas
-
-Tecnologias utilizadas:
-- HTML
-- CSS
-- JavaScript
-- Fetch API
-
-## 🎯 Objetivo
-
-Este repositório foi criado para praticar integração com APIs e entender como aplicações modernas consomem dados externos.
-
-## 🚀 Próximos projetos
-
-Alguns exemplos de APIs que podem ser adicionadas futuramente:
-
-- API de filmes
-- API de cotação de moedas
-- API de notícias
-- API de personagens (ex: Rick and Morty)
+* HTTP requests
+* Consuming public APIs
+* JSON data manipulation
+* Dynamic data rendering in the interface
 
 ---
 
-📚 Repositório de estudos focado em integração com APIs.
+## 📁 Projects
+
+### 🌤️ Weather API
+
+Application that fetches weather information based on a city name.
+
+**Features:**
+
+* Search weather by city
+* Display temperature
+* Show weather conditions
+
+**Technologies used:**
+
+* HTML
+* CSS
+* JavaScript
+* Fetch API
+
+---
+
+## 🎯 Purpose
+
+This repository was created to practice API integration and understand how modern applications consume external data.
+
+---
+
+## 🚀 Next Projects
+
+Some examples of APIs that can be added in the future:
+
+* Movie API
+* Currency exchange API
+* News API
+* Character API (e.g., Rick and Morty)
+
+---
+
+## 📚
+
+Study repository focused on API integration.
